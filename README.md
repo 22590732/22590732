@@ -32,6 +32,8 @@ I'm currently studying **BIS Multimedia** at the **University of Pretoria** and 
 
 ### Design Tools
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=flat-square&logo=Adobe%20Creative%20Suite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ## 📂 Featured Projects
 

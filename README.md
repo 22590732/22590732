@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 
-I'm currently studying **BIS Multimedia** at the **University of Pretoria** and planning to pursue my Honours in BIS Multimedia next year. I'm passionate about building software, designing interactive experiences, and experimenting with new technologies.
+I'm currently studying **BIS Multimedia** at the **University of Pretoria** and planning to pursue my Honours in BIS Multimedia next year. I am currently completing my BIS Multimedia degree at the University of Pretoria and planning to pursue my Honours in BIS Multimedia next year. I am currently contributing to UX/UI and system integration for my COS301 capstone project. Some of my other projects include working as the main game developer for my IMY300 year project, working on a website, and a short horror film for IMY320. With a background in IT and Visual Arts, and with the help of my course content, I am continuously advancing my knowledge of programming languages and technologies. My university experience is shaping me into a versatile developer and software engineer.
 
 ## 🛠️ Technical Skills
 

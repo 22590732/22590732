@@ -37,19 +37,19 @@ I'm currently studying **BIS Multimedia** at the **University of Pretoria** and 
 
 ## 📂 Featured Projects
 
-### 🚛 SAMFMS
+### SAMFMS
 **A modular fleet management system** - My capstone project for COS301.
 > Comprehensive solution for fleet tracking and management
 
-### 🌊 Cove
+### Cove
 **React website for IMY320** - Showcases UX research and theory learned in class.
 > Applied UX principles in a practical web development project
 
-### 📌 Corkboard Productivity
+### Corkboard Productivity
 **Virtual corkboard application** - For managing notes, deadlines, and tasks.
 > Productivity tool with intuitive task management features
 
-### 🎮 FNAF Recreation
+### FNAF Recreation
 **Five Nights At Freddy's clone** - Built using React and TailwindCSS.
 > Creative project combining game mechanics with web technologies
 

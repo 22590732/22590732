@@ -1,89 +1,96 @@
 # Hi there, I'm Johan! 👋
 
-<div align="center">
+I am a software and multimedia graduate from the University of Pretoria, where I completed my BIS Information Science degree specializing in Multimedia. I am currently a full-time Honours student in BIS Information Science specializing in Multimedia, and I am actively building experience for work opportunities in development, UX, and digital media.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolaas-jansen-van-rensburg-202629363/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22590732)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u22590732@tuks.co.za)
+I have completed the AWS Academy course and I am looking forward to completing my certification exam in the future. My background combines IT, visual arts, and practical university project experience, which has helped me grow into a versatile developer who enjoys solving real problems through thoughtful software.
 
-</div>
+## Contact
 
-## 🎓 About Me
+- LinkedIn: [Nicolaas Jansen van Rensburg](https://www.linkedin.com/in/nicolaas-jansen-van-rensburg-202629363/)
+- GitHub: [22590732](https://github.com/22590732)
+- Portfolio: [PDF CV / Portfolio](Johan_JvR_CV.pdf)
+- Email: [u22590732@tuks.co.za](mailto:u22590732@tuks.co.za)
 
-I'm currently studying **BIS Multimedia** at the **University of Pretoria** and planning to pursue my Honours in BIS Multimedia next year. I am currently completing my BIS Multimedia degree at the University of Pretoria and planning to pursue my Honours in BIS Multimedia next year. I am currently contributing to UX/UI and system integration for my COS301 capstone project. Some of my other projects include working as the main game developer for my IMY300 year project, working on a website, and a short horror film for IMY320. With a background in IT and Visual Arts, and with the help of my course content, I am continuously advancing my knowledge of programming languages and technologies. My university experience is shaping me into a versatile developer and software engineer.
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### Frameworks & Libraries
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- C++
+- C#
+- Java
+- JavaScript
+- Python
 
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+### Frameworks and Libraries
+
+- React
+- Vue
+- Next.js
+- Tailwind CSS
+- FastAPI
+
+### Cloud and Development Tools
+
+- AWS Cloud Services
+- Unity
+- Unreal Engine
 
 ### Design Tools
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=flat-square&logo=Adobe%20Creative%20Suite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-## 📂 Featured Projects
+- Adobe Creative Suite
+- Blender
+- Figma
+- Canva
+- Krita
+
+## Featured University Projects
 
 ### SAMFMS
-**A modular fleet management system** - My capstone project for COS301.
-> Comprehensive solution for fleet tracking and management
+
+A scalable and modular fleet management system for my COS301 capstone project. I worked on the frontend and integration, and our team received the Software Excellence Award for the project.
+
+Repo: https://github.com/COS301-SE-2025/SAMFMS
 
 ### Cove
-**React website for IMY320** - Showcases UX research and theory learned in class.
-> Applied UX principles in a practical web development project
+
+My team's IMY320 project. It showcases UX research and the theory we learned in class.
+
+Repo: https://github.com/SaskiaSteyn/IMY320
+
+### Among the Guilty
+
+My IMY300 year project. This Unity video game centres on a murder investigation and features a custom-built event system so that player decisions directly affect the investigation and the ending.
+
+Repo: https://github.com/22590732/IMY300---Game
+
+### Test-Driven Cloud Services Tutorial
+
+A collaborative project with Saskia Steyn that uses React and AWS Cloud Services to teach test-driven development and cloud deployment. Each branch in the repository represents a stage of the tutorial.
+
+Repo: https://github.com/SaskiaSteyn/imy772-workshop
+
+## Personal Projects
+
+These projects are separate from my university work and are built as passion projects in my free time.
 
 ### Corkboard Productivity
-**Virtual corkboard application** - For managing notes, deadlines, and tasks.
-> Productivity tool with intuitive task management features
 
-### FNAF Recreation
-**Five Nights At Freddy's clone** - Built using React and TailwindCSS.
-> Creative project combining game mechanics with web technologies
+A digital version of the large whiteboard I used during my undergraduate studies to track notes, deadlines, and tasks.
 
-## 📊 GitHub Stats
+Repo: https://github.com/22590732/Corkboard-Productivity
 
-<div align="center">
+### FNAF
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22590732&show_icons=true&theme=radical&hide_border=true)
+An ongoing recreation of the original Five Nights at Freddy's game. The project is written in JavaScript and focuses on recreating the core gameplay loop.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22590732&layout=compact&theme=radical&hide_border=true)
+Repo: https://github.com/22590732/FNAF
 
-</div>
+### Letters to Jesus
 
-## 🌱 What's Next
+An ongoing productivity app for Christians that is intended for mobile use.
 
-- 🎯 Finishing my BIS Multimedia degree
-- 📚 Starting Honours in BIS Multimedia next year
-- 💡 Expanding expertise in software development, UX, and game design
-- 🚀 Building more innovative projects and exploring emerging technologies
+Repo: https://github.com/22590732/Letters-To-Jesus
 
-## 📫 Let's Connect!
+## What I'm Looking For
 
-I'm always open to discussing new opportunities, collaborations, or just having a chat about technology and design!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolaas-jansen-van-rensburg-202629363/)
-[![GitHub](https://img.shields.io/badge/Portfolio-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22590732)
-[![Email](https://img.shields.io/badge/Email-u22590732@tuks.co.za-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u22590732@tuks.co.za)
-
-</div>
-
----
-
-<div align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</i>
-</div>
+I am interested in opportunities where I can contribute to software development, frontend work, UX-focused projects, and cloud-enabled applications while continuing to grow my technical and creative skills.

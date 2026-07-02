@@ -4,7 +4,12 @@ I am a software and multimedia graduate from the University of Pretoria, where I
 
 I have completed the AWS Academy course and I am looking forward to completing my certification exam in the future. My background combines IT, visual arts, and practical university project experience, which has helped me grow into a versatile developer who enjoys solving real problems through thoughtful software.
 
-<img src="IMG_1059.jpg" alt="Johan Jansen van Rensburg" width="25%" />
+<table>
+	<tr>
+		<td><img src="IMG_1059.jpg" alt="Johan Jansen van Rensburg" width="250" /></td>
+		<td><img src="Degree.jpeg" alt="Degree certificate" width="250" /></td>
+	</tr>
+</table>
 
 ## Contact
 

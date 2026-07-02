@@ -10,7 +10,7 @@ I have completed the AWS Academy course and I am looking forward to completing m
 
 - LinkedIn: [Nicolaas Jansen van Rensburg](https://www.linkedin.com/in/nicolaas-jansen-van-rensburg-202629363/)
 - GitHub: [22590732](https://github.com/22590732)
-- Portfolio: [PDF CV / Portfolio](Johan_JvR_CV.pdf)
+- Portfolio: [PDF CV / Portfolio](https://raw.githubusercontent.com/22590732/22590732/main/Johan_JvR_CV.pdf)
 - Email: [u22590732@tuks.co.za](mailto:u22590732@tuks.co.za)
 
 ## Technical Skills

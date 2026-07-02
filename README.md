@@ -4,6 +4,8 @@ I am a software and multimedia graduate from the University of Pretoria, where I
 
 I have completed the AWS Academy course and I am looking forward to completing my certification exam in the future. My background combines IT, visual arts, and practical university project experience, which has helped me grow into a versatile developer who enjoys solving real problems through thoughtful software.
 
+![Johan Jansen van Rensburg](IMG_1059.jpg)
+
 ## Contact
 
 - LinkedIn: [Nicolaas Jansen van Rensburg](https://www.linkedin.com/in/nicolaas-jansen-van-rensburg-202629363/)
@@ -15,33 +17,33 @@ I have completed the AWS Academy course and I am looking forward to completing m
 
 ### Programming Languages
 
-- C++
-- C#
-- Java
-- JavaScript
-- Python
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks and Libraries
 
-- React
-- Vue
-- Next.js
-- Tailwind CSS
-- FastAPI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Cloud and Development Tools
 
-- AWS Cloud Services
-- Unity
-- Unreal Engine
+![AWS Cloud Services](https://img.shields.io/badge/AWS_Cloud_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### Design Tools
 
-- Adobe Creative Suite
-- Blender
-- Figma
-- Canva
-- Krita
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
 ## Featured University Projects
 
